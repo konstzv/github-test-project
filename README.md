@@ -1,1 +1,1 @@
-# github-school-project
+# PUBG
