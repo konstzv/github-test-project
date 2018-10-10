@@ -1,1 +1,1 @@
-# github-test-project
+# github-school-project
